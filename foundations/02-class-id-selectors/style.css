@@ -1,0 +1,22 @@
+body {
+    font-family: "Verdana", "DejaVu Sans", "Sans-serif";
+}
+
+.class-odd {
+    background-color: lightpink;
+}
+
+#id-02 {
+    color: blue;
+    font-size: 36px;
+}
+
+.class-unique {
+    font-size: 24px;
+}
+
+#id-04 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
